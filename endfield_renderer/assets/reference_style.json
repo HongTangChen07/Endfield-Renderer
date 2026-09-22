@@ -1,0 +1,4668 @@
+{
+  "materials": {
+    "M_actor_chen_body_01.001": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": false,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3799999952316284,
+            1.2710455656051636,
+            1.2350894212722778,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.0,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.3184714317321777,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.6034891605377197,
+            0.5121082663536072,
+            0.43889594078063965,
+            1.0
+          ],
+          "ToonfresnelPow": 1.399999976158142,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.8999999761581421,
+          "Rim_DirLightAtten": 0.8500000238418579,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": 0.0,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.5,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.6000000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_chen_body_01.002": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": false,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            0.5213725566864014,
+            0.5213725566864014,
+            0.5213725566864014,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            0.6187328100204468,
+            0.5707260370254517,
+            0.5548897981643677,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.0,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.3184714317321777,
+          "fresnelInsideColor": [
+            1.5233900547027588,
+            1.5233900547027588,
+            1.5233900547027588,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.5233900547027588,
+            1.5233900547027588,
+            1.5233900547027588,
+            1.0
+          ],
+          "ToonfresnelPow": 1.399999976158142,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.8999999761581421,
+          "Rim_DirLightAtten": 0.691082775592804,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 0.0,
+          "GlobalShadowBrightnessAdjustment": 0.0,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.5,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.699999988079071,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_chen_brow_01.001Alpha.001": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.800000011920929
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_chen_brow_01.002": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseBrow",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ]
+        },
+        "linked": [
+          "D_RGB"
+        ]
+      }
+    ],
+    "M_actor_chen_cloth_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 1.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.02989625558257103,
+            0.08844408392906189,
+            0.1240374743938446,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.44999998807907104,
+          "RemaphalfLambert_sharp": 0.11999999731779099,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652199268341064,
+            3.7652199268341064,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.5,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_E（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_chen_cloth_01.001": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": true,
+          "Use Toonaniso?": true,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 0.493630588054657,
+          "Aniso_SmoothnessMaxT": 0.20382165908813477,
+          "Aniso_SmoothnessMaxB": 0.3121018409729004,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.5700000524520874,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            1.0,
+            0.9102615118026733,
+            0.890117347240448,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 0.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 1.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.5,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "Anisotropic mask"
+        ]
+      }
+    ],
+    "M_actor_chen_face_01.001": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseFace",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.7858223915100098,
+            1.7999999523162842,
+            1.534999966621399,
+            1.0
+          ],
+          "SmoothnessMax": 0.37261146306991577,
+          "MetallicMax": 0.0,
+          "SDF_RemaphalfLambert_center": 0.10000000894069672,
+          "SDF_RemaphalfLambert_sharp": 0.5000000596046448,
+          "chin_RemaphalfLambert_center": 0.0,
+          "chin_RemaphalfLambert_sharp": 0.0,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.09999999403953552,
+          "Front R Color": [
+            0.8229361772537231,
+            0.6691703796386719,
+            0.6484087705612183,
+            1.0
+          ],
+          "Front R Pow": 1.899999976158142,
+          "Front R Smo": 0.8999999761581421,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051898956299,
+            0.9580051898956299,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.4217555522918701,
+            1.1759462356567383,
+            1.1659241914749146,
+            1.0
+          ],
+          "SpecularColor": [
+            2.424405336380005,
+            2.3651511669158936,
+            2.424405336380005,
+            1.0
+          ],
+          "Rim_Color": [
+            0.5749970078468323,
+            0.5749970078468323,
+            0.5749970078468323,
+            1.0
+          ],
+          "nose_shadow_Color": [
+            0.3084079325199127,
+            0.3084079325199127,
+            0.3084079325199127,
+            1.0
+          ],
+          "GlobalShadowBrightnessAdjustment": -1.9363056421279907,
+          "sphereNormal_Strength": 1.0,
+          "Face Final brightness": 1.149999976158142,
+          "Eyes white Final brightness": 1.2999999523162842,
+          "Lips highlight color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_chen_face_01.002": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseFace",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2751749753952026,
+            1.2852716445922852,
+            1.0965529680252075,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "MetallicMax": 0.0,
+          "SDF_RemaphalfLambert_center": 0.10000000894069672,
+          "SDF_RemaphalfLambert_sharp": 0.5000000596046448,
+          "chin_RemaphalfLambert_center": 0.5,
+          "chin_RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.09999999403953552,
+          "Front R Color": [
+            0.8229361772537231,
+            0.6691703796386719,
+            0.6484087705612183,
+            1.0
+          ],
+          "Front R Pow": 1.899999976158142,
+          "Front R Smo": 0.8999999761581421,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051898956299,
+            0.9580051898956299,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.7422049045562744,
+            1.4403717517852783,
+            1.4280675649642944,
+            1.0
+          ],
+          "SpecularColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_Color": [
+            0.4416159987449646,
+            0.4416159987449646,
+            0.4416159987449646,
+            1.0
+          ],
+          "nose_shadow_Color": [
+            0.3084079325199127,
+            0.3084079325199127,
+            0.3084079325199127,
+            1.0
+          ],
+          "GlobalShadowBrightnessAdjustment": -1.5,
+          "sphereNormal_Strength": 1.0,
+          "Face Final brightness": 1.149999976158142,
+          "Eyes white Final brightness": 1.5,
+          "Lips highlight color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_chen_hair_01.001": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseHair",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            0.9858808517456055,
+            0.9858808517456055,
+            0.9858808517456055,
+            1.0
+          ],
+          "Fusion face color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Use Fusion face color?": false,
+          "_HN(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_HN(非色彩Non_Color)A": 0.0,
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "SmoothnessMax": 0.06687900424003601,
+          "MetallicMax": 0.0,
+          "RemaphalfLambert_center": 0.5700000524520874,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.4999999701976776,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SpecularColor": [
+            3.0,
+            2.701171875,
+            2.2461471557617188,
+            1.0
+          ],
+          "NormalStrength": 1.0,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.24063074588775635,
+            0.2465725839138031,
+            0.3869830071926117,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.7000000476837158,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Use Rimlimitation?": true,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 2.0,
+          "GlobalShadowBrightnessAdjustment": -1.7261145114898682,
+          "HNormalStrength": 0.75,
+          "HighLightColorA": [
+            0.13202349841594696,
+            0.13240356743335724,
+            0.15691247582435608,
+            1.0
+          ],
+          "HighLightColorB": [
+            1.0,
+            0.644524335861206,
+            0.43651118874549866,
+            1.0
+          ],
+          "FHighLightPos": 0.4000000059604645,
+          "Highlight length": 0.08500000089406967,
+          "Final brightness": 1.100000023841858,
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "Hair HighLight Color Lerp SMO Min": 0.10000000149011612,
+          "Hair HighLight Color Lerp SMO Max": 0.4000000059604645,
+          "Hair HighLight Color Lerp SMO Offset": 0.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_HN(非色彩Non_Color)R.G.B",
+          "_HN(非色彩Non_Color)A",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_chen_iris_01.001Alpha": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_chen_iris_01.001Alpha.001": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.800000011920929
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_chen_iris_01.002": [
+      {
+        "group": "Arknights: Endfield_PBRToon_irisBase",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "D_Alpha": 0.5,
+          "Eyes brightness": 1.5,
+          "Eyes HightLight brightness": 6.0
+        },
+        "linked": [
+          "D_RGB",
+          "D_Alpha"
+        ]
+      }
+    ],
+    "M_actor_laevat_body_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.162847876548767,
+            0.9887527227401733,
+            1.0280101299285889,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.09999999403953552,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.5121498107910156,
+            1.5121498107910156,
+            1.5121498107910156,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.25,
+          "fresnelInsideColor": [
+            1.5443248748779297,
+            1.5443248748779297,
+            1.5443248748779297,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.6035008430480957,
+            0.5052457451820374,
+            0.4115230441093445,
+            1.0
+          ],
+          "ToonfresnelPow": 0.8999999761581421,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 1.0700000524520874,
+          "Rim_DirLightAtten": 0.8999999761581421,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": 0.031847476959228516,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.7000000476837158,
+          "specularFGD Strength": 0.7999999523162842
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)"
+        ]
+      }
+    ],
+    "M_actor_laevat_body_02": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            0.8152095079421997,
+            0.7292841672897339,
+            0.7691092491149902,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.0,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.5121498107910156,
+            1.5121498107910156,
+            1.5121498107910156,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.25,
+          "fresnelInsideColor": [
+            1.544319987297058,
+            1.544319987297058,
+            1.544319987297058,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.544319987297058,
+            1.544319987297058,
+            1.544319987297058,
+            1.0
+          ],
+          "ToonfresnelPow": 0.8999999761581421,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 1.0700000524520874,
+          "Rim_DirLightAtten": 0.8999999761581421,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 1.0,
+          "GlobalShadowBrightnessAdjustment": 0.031847476959228516,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.7000000476837158,
+          "specularFGD Strength": 0.7999999523162842
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)"
+        ]
+      }
+    ],
+    "M_actor_laevat_brow_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseBrow",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ]
+        },
+        "linked": [
+          "D_RGB"
+        ]
+      },
+      {
+        "group": "Arknights: Endfield_PBRToonBaseBrow",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ]
+        },
+        "linked": []
+      }
+    ],
+    "M_actor_laevat_browAlpha_01": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      },
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": []
+      }
+    ],
+    "M_actor_laevat_cloth_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            1.600000023841858,
+            1.4312067031860352,
+            1.4312067031860352,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_E（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_laevat_cloth_02": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": true,
+          "Use Simple transmission？": false,
+          "RS Model": true,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            1.0,
+            0.8945042490959167,
+            0.8945042490959167,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 1.0,
+          "RS Multiply Value": 1.0,
+          "RS ColorTint": [
+            7.5,
+            1.4143484830856323,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_E（非色彩）",
+          "_M（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_laevat_cloth_03": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.02989625558257103,
+            0.08844408392906189,
+            0.1240374743938446,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.5700000524520874,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652199268341064,
+            3.7652199268341064,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 0.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_laevat_cloth_04": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.02989625558257103,
+            0.08844408392906189,
+            0.1240374743938446,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.5700000524520874,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652199268341064,
+            3.7652199268341064,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_laevat_cloth_05": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": true,
+          "Use Toonaniso?": true,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": true,
+          "Use Simple transmission？": false,
+          "RS Model": true,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 0.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.02989625558257103,
+            0.08844408392906189,
+            0.1240374743938446,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.5700000524520874,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652199268341064,
+            3.7652199268341064,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 1.0,
+          "RS Multiply Value": 1.0,
+          "RS ColorTint": [
+            7.5,
+            1.4143449068069458,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_M（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_laevat_face_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseFace",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.480080008506775,
+            1.156520962715149,
+            1.156520962715149,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "MetallicMax": 0.0,
+          "SDF_RemaphalfLambert_center": 0.10000000894069672,
+          "SDF_RemaphalfLambert_sharp": 0.5000000596046448,
+          "chin_RemaphalfLambert_center": 0.5,
+          "chin_RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "Front R Color": [
+            0.8229361772537231,
+            0.6691703796386719,
+            0.6484087705612183,
+            1.0
+          ],
+          "Front R Pow": 1.899999976158142,
+          "Front R Smo": 0.8999999761581421,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051898956299,
+            0.9580051898956299,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.550860047340393,
+            1.2821755409240723,
+            1.27121901512146,
+            1.0
+          ],
+          "SpecularColor": [
+            2.424405336380005,
+            2.3651511669158936,
+            2.424405336380005,
+            1.0
+          ],
+          "Rim_Color": [
+            0.4416159987449646,
+            0.4416159987449646,
+            0.4416159987449646,
+            1.0
+          ],
+          "nose_shadow_Color": [
+            0.3084079325199127,
+            0.3084079325199127,
+            0.3084079325199127,
+            1.0
+          ],
+          "GlobalShadowBrightnessAdjustment": -1.5015480518341064,
+          "sphereNormal_Strength": 1.0,
+          "Face Final brightness": 1.149999976158142,
+          "Eyes white Final brightness": 1.5,
+          "Lips highlight color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_laevat_hair_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseHair",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Fusion face color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Use Fusion face color?": false,
+          "_HN(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_HN(非色彩Non_Color)A": 0.0,
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "SmoothnessMax": 0.06687900424003601,
+          "MetallicMax": 0.0,
+          "RemaphalfLambert_center": 0.5700000524520874,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.4999999701976776,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.08113288134336472,
+            0.010868011973798275,
+            0.01872020959854126,
+            1.0
+          ],
+          "SpecularColor": [
+            3.0,
+            2.701171875,
+            2.2461471557617188,
+            1.0
+          ],
+          "NormalStrength": 0.5,
+          "fresnelInsideColor": [
+            2.00044584274292,
+            1.2419555187225342,
+            1.5905659198760986,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.0,
+            0.6048811674118042,
+            0.8903209567070007,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.7000000476837158,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Use Rimlimitation?": true,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 2.0,
+          "GlobalShadowBrightnessAdjustment": -1.7261145114898682,
+          "HNormalStrength": 0.75,
+          "HighLightColorA": [
+            0.4111957550048828,
+            0.4111957550048828,
+            0.4111957550048828,
+            1.0
+          ],
+          "HighLightColorB": [
+            0.8236883282661438,
+            0.22334229946136475,
+            0.577185869216919,
+            1.0
+          ],
+          "FHighLightPos": 0.4000000059604645,
+          "Highlight length": 0.03999999910593033,
+          "Final brightness": 1.2000000476837158,
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "Hair HighLight Color Lerp SMO Min": 0.10000000149011612,
+          "Hair HighLight Color Lerp SMO Max": 0.4000000059604645,
+          "Hair HighLight Color Lerp SMO Offset": 0.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_HN(非色彩Non_Color)R.G.B",
+          "_HN(非色彩Non_Color)A",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_laevat_iris_01": [
+      {
+        "group": "Arknights: Endfield_PBRToon_irisBase",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "D_Alpha": 0.5,
+          "Eyes brightness": 1.5,
+          "Eyes HightLight brightness": 10.0
+        },
+        "linked": [
+          "D_RGB",
+          "D_Alpha"
+        ]
+      }
+    ],
+    "M_actor_laevat_irisAlpha_01": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_laevat_irisAlpha_01.001": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_pelica_body_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3799999952316284,
+            1.2831255197525024,
+            1.1650437116622925,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.09999999403953552,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.5121498107910156,
+            1.5121498107910156,
+            1.5121498107910156,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.25,
+          "fresnelInsideColor": [
+            1.5380996465682983,
+            1.3656959533691406,
+            1.3039638996124268,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.6035008430480957,
+            0.5052457451820374,
+            0.4115230441093445,
+            1.0
+          ],
+          "ToonfresnelPow": 0.8999999761581421,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 1.0700000524520874,
+          "Rim_DirLightAtten": 0.8999999761581421,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 1.0,
+          "GlobalShadowBrightnessAdjustment": 0.031847476959228516,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.7000000476837158,
+          "specularFGD Strength": 0.7999999523162842
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)"
+        ]
+      }
+    ],
+    "M_actor_pelica_body_02": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            0.8843294382095337,
+            0.8517073392868042,
+            0.8761054277420044,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.0,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.5121498107910156,
+            1.5121498107910156,
+            1.5121498107910156,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.25,
+          "fresnelInsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "ToonfresnelPow": 0.8999999761581421,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 1.0700000524520874,
+          "Rim_DirLightAtten": 0.8999999761581421,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": 0.031847476959228516,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.7000000476837158,
+          "specularFGD Strength": 0.7999999523162842
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)"
+        ]
+      }
+    ],
+    "M_actor_pelica_brow_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseBrow",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ]
+        },
+        "linked": [
+          "D_RGB"
+        ]
+      }
+    ],
+    "M_actor_pelica_browAlpha_01": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_pelica_cloth_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2618986368179321,
+            1.2618986368179321,
+            1.2618986368179321,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.5,
+            1.5,
+            1.5,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            1.100000023841858,
+            0.983954668045044,
+            0.983954668045044,
+            1.0
+          ],
+          "NormalStrength": 0.75,
+          "fresnelInsideColor": [
+            1.2254300117492676,
+            1.2254300117492676,
+            1.2254300117492676,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_E（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_pelica_cloth_02": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.021027684211731,
+            1.021027684211731,
+            1.021027684211731,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.5,
+            1.5,
+            1.5,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            0.8018568158149719,
+            0.8213231563568115,
+            1.0,
+            1.0
+          ],
+          "NormalStrength": 1.350000023841858,
+          "fresnelInsideColor": [
+            1.2254300117492676,
+            1.2254300117492676,
+            1.2254300117492676,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_E（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_pelica_cloth_03": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3314642906188965,
+            1.3314642906188965,
+            1.3314642906188965,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            1.100000023841858,
+            0.983954668045044,
+            0.983954668045044,
+            1.0
+          ],
+          "NormalStrength": 1.350000023841858,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 0.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 0.7999999523162842,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_pelica_cloth_04": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 3.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3314642906188965,
+            1.3314642906188965,
+            1.3314642906188965,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 2.9802322387695312e-08,
+          "RemaphalfLambert_sharp": 0.19999998807907104,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            1.100000023841858,
+            0.983954668045044,
+            0.983954668045044,
+            1.0
+          ],
+          "NormalStrength": 1.0,
+          "fresnelInsideColor": [
+            1.0725640058517456,
+            1.0725640058517456,
+            1.0725640058517456,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.10906615853309631,
+            0.08479119092226028,
+            0.08718859404325485,
+            1.0
+          ],
+          "ToonfresnelPow": 1.600000023841858,
+          "_ToonfresnelSMO_L": 0.17000000178813934,
+          "_ToonfresnelSMO_H": 1.3000000715255737,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_E（非色彩）"
+        ]
+      }
+    ],
+    "M_actor_pelica_face_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseFace",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3799999952316284,
+            1.3216803073883057,
+            1.0690902471542358,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "MetallicMax": 0.0,
+          "SDF_RemaphalfLambert_center": 0.10000000894069672,
+          "SDF_RemaphalfLambert_sharp": 0.5000000596046448,
+          "chin_RemaphalfLambert_center": 0.5,
+          "chin_RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "Front R Color": [
+            0.686528742313385,
+            0.6051878929138184,
+            0.50954270362854,
+            1.0
+          ],
+          "Front R Pow": 1.850000023841858,
+          "Front R Smo": 0.8500000238418579,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051898956299,
+            0.9580051898956299,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.753646969795227,
+            1.4487226009368896,
+            1.436318039894104,
+            1.0
+          ],
+          "SpecularColor": [
+            2.424405336380005,
+            2.3651511669158936,
+            2.424405336380005,
+            1.0
+          ],
+          "Rim_Color": [
+            0.4416159987449646,
+            0.4416159987449646,
+            0.4416159987449646,
+            1.0
+          ],
+          "nose_shadow_Color": [
+            0.3084079325199127,
+            0.3084079325199127,
+            0.3084079325199127,
+            1.0
+          ],
+          "GlobalShadowBrightnessAdjustment": -1.5015480518341064,
+          "sphereNormal_Strength": 1.0,
+          "Face Final brightness": 1.149999976158142,
+          "Eyes white Final brightness": 1.5,
+          "Lips highlight color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_pelica_hair_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseHair",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            0.9642968773841858,
+            0.9642968773841858,
+            0.9642968773841858,
+            1.0
+          ],
+          "Fusion face color": [
+            0.4984844923019409,
+            0.217611625790596,
+            0.17558692395687103,
+            1.0
+          ],
+          "Use Fusion face color?": true,
+          "_HN(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_HN(非色彩Non_Color)A": 0.0,
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "SmoothnessMax": 0.06687900424003601,
+          "MetallicMax": 0.0,
+          "RemaphalfLambert_center": 0.5,
+          "RemaphalfLambert_sharp": 0.25,
+          "CastShadow_center": 0.4999999701976776,
+          "CastShadow_sharp": 0.10000000149011612,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.08103002607822418,
+            0.08112776279449463,
+            0.0750591903924942,
+            1.0
+          ],
+          "SpecularColor": [
+            3.0,
+            2.701171875,
+            2.2461471557617188,
+            1.0
+          ],
+          "NormalStrength": 0.75,
+          "fresnelInsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.7000000476837158,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Use Rimlimitation?": true,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 2.0,
+          "GlobalShadowBrightnessAdjustment": -1.7261145114898682,
+          "HNormalStrength": 0.75,
+          "HighLightColorA": [
+            0.33508023619651794,
+            0.2533694803714752,
+            0.1925312876701355,
+            1.0
+          ],
+          "HighLightColorB": [
+            0.24525150656700134,
+            0.2303517460823059,
+            0.2450084090232849,
+            1.0
+          ],
+          "FHighLightPos": 0.4000000059604645,
+          "Highlight length": 0.12280254065990448,
+          "Final brightness": 1.2000000476837158,
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "Hair HighLight Color Lerp SMO Min": 0.0,
+          "Hair HighLight Color Lerp SMO Max": 0.5,
+          "Hair HighLight Color Lerp SMO Offset": 0.19999998807907104
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_HN(非色彩Non_Color)R.G.B",
+          "_HN(非色彩Non_Color)A",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_pelica_iris_01": [
+      {
+        "group": "Arknights: Endfield_PBRToon_irisBase",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "D_Alpha": 0.5,
+          "Eyes brightness": 1.5,
+          "Eyes HightLight brightness": 10.0
+        },
+        "linked": [
+          "D_RGB",
+          "D_Alpha"
+        ]
+      }
+    ],
+    "M_actor_pelica_irisALpha_01": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_yvonne_body_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.1629197597503662,
+            0.9664263725280762,
+            1.0353847742080688,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.0,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.5121498107910156,
+            1.5121498107910156,
+            1.5121498107910156,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.25,
+          "fresnelInsideColor": [
+            1.5443248748779297,
+            1.5443248748779297,
+            1.5443248748779297,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.6035008430480957,
+            0.5052457451820374,
+            0.4115230441093445,
+            1.0
+          ],
+          "ToonfresnelPow": 1.600000023841858,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 1.0700000524520874,
+          "Rim_DirLightAtten": 0.8999999761581421,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": 0.031847476959228516,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.6000000238418579,
+          "specularFGD Strength": 0.7999999523162842
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)"
+        ]
+      }
+    ],
+    "M_actor_yvonne_body_02": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": true,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 1.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.164146900177002,
+            1.3510236740112305,
+            1.500330924987793,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 1.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.0,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.0,
+          "RemaphalfLambert_sharp": 0.05000000074505806,
+          "CastShadow_center": -0.10000000149011612,
+          "CastShadow_sharp": 0.05000000074505806,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.5121498107910156,
+            1.5121498107910156,
+            1.5121498107910156,
+            1.0
+          ],
+          "SpecularColor": [
+            4.2092814445495605,
+            3.7652196884155273,
+            3.7652196884155273,
+            1.0
+          ],
+          "NormalStrength": 1.25,
+          "fresnelInsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "ToonfresnelPow": 1.600000023841858,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 1.0700000524520874,
+          "Rim_DirLightAtten": 0.8999999761581421,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 1.0,
+          "GlobalShadowBrightnessAdjustment": 0.031847476959228516,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.7000000476837158,
+          "specularFGD Strength": 0.7999999523162842
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)"
+        ]
+      }
+    ],
+    "M_actor_yvonne_brow_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseBrow",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ]
+        },
+        "linked": [
+          "D_RGB"
+        ]
+      }
+    ],
+    "M_actor_yvonne_browAlpha_01": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ],
+    "M_actor_yvonne_cloth_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3314642906188965,
+            1.3314642906188965,
+            1.3314642906188965,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            1.100000023841858,
+            0.983954668045044,
+            0.983954668045044,
+            1.0
+          ],
+          "NormalStrength": 1.4458599090576172,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_yvonne_cloth_02": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424540519714355,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.44999998807907104,
+          "RemaphalfLambert_sharp": 0.5,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.9577637910842896,
+            0.9577637910842896,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            1.100000023841858,
+            0.983954668045044,
+            0.983954668045044,
+            1.0
+          ],
+          "NormalStrength": 1.0,
+          "fresnelInsideColor": [
+            1.5233910083770752,
+            1.5233910083770752,
+            1.5233910083770752,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.39016708731651306,
+            0.39686840772628784,
+            0.4570219814777374,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_yvonne_cloth_03": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": true,
+          "Use Simple transmission？": true,
+          "RS Model": false,
+          "Simple transmission Value": 0.6499999761581421,
+          "RS_Index": 1.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.2424540519714355,
+            1.2424540519714355,
+            1.2424499988555908,
+            1.0
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            2.0,
+            2.0,
+            2.0,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "Aniso_SmoothnessMaxT": 0.6046509742736816,
+          "Aniso_SmoothnessMaxB": 0.0,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            0.8850190043449402,
+            0.8967800140380859,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "SpecularColor": [
+            12.0,
+            11.290271759033203,
+            11.290271759033203,
+            1.0
+          ],
+          "NormalStrength": 1.0,
+          "fresnelInsideColor": [
+            1.5236079692840576,
+            0.9775326251983643,
+            1.0350764989852905,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            2.000080108642578,
+            1.6462299823760986,
+            1.37677001953125,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 0.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 1.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.7999999523162842,
+          "Layer weight Value Offset": 0.3999999761581421,
+          "RS Strength": 0.9999997615814209,
+          "RS Multiply Value": 1.0,
+          "RS ColorTint": [
+            1.0,
+            0.8734161853790283,
+            0.8325412273406982,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 1.0
+        },
+        "linked": [
+          "Simple transmission Value",
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "BaseColor",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A",
+          "_M（非色彩）",
+          "fresnelInsideColor",
+          "fresnelOutsideColor"
+        ]
+      }
+    ],
+    "M_actor_yvonne_cloth_04": [
+      {
+        "group": "Arknights: Endfield_PBRToonBase",
+        "values": {
+          "Is Skin?": false,
+          "Use anisotropy?": false,
+          "Use Toonaniso?": false,
+          "Use NormalTex?": true,
+          "Use RS_Eff?": false,
+          "Use Simple transmission？": false,
+          "RS Model": false,
+          "Simple transmission Value": 0.0,
+          "RS_Index": 0.0,
+          "RampIndex": 2.0,
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.3314599990844727,
+            1.3314599990844727,
+            1.4757800102233887,
+            1.3314599990844727
+          ],
+          "_N(非色彩Non_Color)": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "_E（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "_M（非色彩）": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Emission Color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "SmoothnessMax": 0.8999999761581421,
+          "Aniso_SmoothnessMaxT": 0.2197451889514923,
+          "Aniso_SmoothnessMaxB": 0.668789803981781,
+          "MetallicMax": 1.0,
+          "RemaphalfLambert_center": 0.4000000059604645,
+          "RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "dirLight_lightColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.2000000476837158,
+            1.2000000476837158,
+            1.2000000476837158,
+            1.0
+          ],
+          "SpecularColor": [
+            1.100000023841858,
+            0.9839547872543335,
+            0.9839547872543335,
+            1.0
+          ],
+          "NormalStrength": 0.8999999761581421,
+          "fresnelInsideColor": [
+            1.7000000476837158,
+            1.7000000476837158,
+            1.7000000476837158,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            0.7102830410003662,
+            0.7102830410003662,
+            0.7102830410003662,
+            1.0
+          ],
+          "ToonfresnelPow": 3.6000001430511475,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.5000000596046448,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 5.0,
+          "GlobalShadowBrightnessAdjustment": -1.7999999523162842,
+          "Anisotropic mask": 0.0,
+          "Alpha": 1.0,
+          "Layer weight Value": 0.0,
+          "Layer weight Value Offset": 0.0,
+          "RS Strength": 0.0,
+          "RS Multiply Value": 0.0,
+          "RS ColorTint": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8500000238418579,
+          "specularFGD Strength": 0.3999999761581421
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_N(非色彩Non_Color)",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_yvonne_face_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseFace",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            1.6140902042388916,
+            1.3366786241531372,
+            1.3866466283798218,
+            1.0
+          ],
+          "SmoothnessMax": 1.0,
+          "MetallicMax": 0.0,
+          "SDF_RemaphalfLambert_center": 0.10000000894069672,
+          "SDF_RemaphalfLambert_sharp": 0.5000000596046448,
+          "chin_RemaphalfLambert_center": 0.5,
+          "chin_RemaphalfLambert_sharp": 0.10000000149011612,
+          "CastShadow_center": 0.0,
+          "CastShadow_sharp": 0.17000000178813934,
+          "Front R Color": [
+            0.8229361772537231,
+            0.6691703796386719,
+            0.6484087705612183,
+            1.0
+          ],
+          "Front R Pow": 1.850000023841858,
+          "Front R Smo": 0.8500000238418579,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051898956299,
+            0.9580051898956299,
+            1.0
+          ],
+          "AmbientLightColorTint": [
+            1.4599645137786865,
+            1.206954002380371,
+            1.1966617107391357,
+            1.0
+          ],
+          "SpecularColor": [
+            2.424405336380005,
+            2.3651511669158936,
+            2.424405336380005,
+            1.0
+          ],
+          "Rim_Color": [
+            0.4416159987449646,
+            0.4416159987449646,
+            0.4416159987449646,
+            1.0
+          ],
+          "nose_shadow_Color": [
+            0.3084079325199127,
+            0.3084079325199127,
+            0.3084079325199127,
+            1.0
+          ],
+          "GlobalShadowBrightnessAdjustment": -1.5015480518341064,
+          "sphereNormal_Strength": 1.0,
+          "Face Final brightness": 1.149999976158142,
+          "Eyes white Final brightness": 1.5,
+          "Lips highlight color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A"
+        ]
+      }
+    ],
+    "M_actor_yvonne_hair_01": [
+      {
+        "group": "Arknights: Endfield_PBRToonBaseHair",
+        "values": {
+          "_D(sRGB)R.G.B": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "_D(sRGB).A": 0.0,
+          "BaseColor": [
+            0.9348978400230408,
+            0.9197303056716919,
+            1.0,
+            1.0
+          ],
+          "Fusion face color": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+          ],
+          "Use Fusion face color?": false,
+          "_HN(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_HN(非色彩Non_Color)A": 0.0,
+          "_P(非色彩Non_Color)R.G.B": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "_P(非色彩Non_Color)A": 0.0,
+          "SmoothnessMax": 0.06687900424003601,
+          "MetallicMax": 0.0,
+          "RemaphalfLambert_center": 0.5699999928474426,
+          "RemaphalfLambert_sharp": 0.18000000715255737,
+          "CastShadow_center": 0.4999999701976776,
+          "CastShadow_sharp": 0.10000000149011612,
+          "dirLight_lightColor": [
+            1.0,
+            0.9580051302909851,
+            0.9580051302909851,
+            1.0
+          ],
+          "directOcclusionColor": [
+            0.08113116770982742,
+            0.023764465004205704,
+            0.05493112653493881,
+            1.0
+          ],
+          "SpecularColor": [
+            3.0,
+            2.701171875,
+            2.2461471557617188,
+            1.0
+          ],
+          "NormalStrength": 0.5,
+          "fresnelInsideColor": [
+            2.00044584274292,
+            1.2419555187225342,
+            1.5905659198760986,
+            1.0
+          ],
+          "fresnelOutsideColor": [
+            1.0,
+            0.6048811674118042,
+            0.8903209567070007,
+            1.0
+          ],
+          "ToonfresnelPow": 1.7000000476837158,
+          "_ToonfresnelSMO_L": 0.0,
+          "_ToonfresnelSMO_H": 0.7000000476837158,
+          "Rim_DirLightAtten": 0.9617834091186523,
+          "Rim_width_X": 0.04184713214635849,
+          "Use Rimlimitation?": true,
+          "Rim_width_Y": 0.019108280539512634,
+          "Rim_Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Rim_ColorStrength": 2.0,
+          "GlobalShadowBrightnessAdjustment": -1.7261145114898682,
+          "HNormalStrength": 0.75,
+          "HighLightColorA": [
+            0.6759434938430786,
+            0.21761471033096313,
+            0.02780025824904442,
+            1.0
+          ],
+          "HighLightColorB": [
+            0.48353227972984314,
+            0.45341992378234863,
+            0.483040452003479,
+            1.0
+          ],
+          "FHighLightPos": 0.30000001192092896,
+          "Highlight length": 0.12280254065990448,
+          "Final brightness": 1.2000000476837158,
+          "Color desaturation in shaded areas attenuation": 0.8999999761581421,
+          "Hair HighLight Color Lerp SMO Min": 0.0,
+          "Hair HighLight Color Lerp SMO Max": 0.5,
+          "Hair HighLight Color Lerp SMO Offset": 0.19999998807907104
+        },
+        "linked": [
+          "_D(sRGB)R.G.B",
+          "_D(sRGB).A",
+          "_HN(非色彩Non_Color)R.G.B",
+          "_HN(非色彩Non_Color)A",
+          "_P(非色彩Non_Color)R.G.B",
+          "_P(非色彩Non_Color)A"
+        ]
+      }
+    ],
+    "M_actor_yvonne_iris_01": [
+      {
+        "group": "Arknights: Endfield_PBRToon_irisBase",
+        "values": {
+          "D_RGB": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "D_Alpha": 0.5,
+          "Eyes brightness": 1.2999999523162842,
+          "Eyes HightLight brightness": 6.0
+        },
+        "linked": [
+          "D_RGB",
+          "D_Alpha"
+        ]
+      }
+    ],
+    "M_actor_yvonne_irisAlpha_01": [
+      {
+        "group": "Arknights: Endfield_Alpha",
+        "values": {
+          "Color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "Alpha Offset": 0.699999988079071
+        },
+        "linked": [
+          "Color"
+        ]
+      }
+    ]
+  },
+  "eevee": {
+    "gi_diffuse_bounces": 3,
+    "gi_cubemap_resolution": "512",
+    "gi_visibility_resolution": "32",
+    "gi_glossy_clamp": 0.0,
+    "gi_filter_quality": 3.0,
+    "gi_show_irradiance": false,
+    "gi_show_cubemaps": false,
+    "gi_irradiance_display_size": 0.10000000149011612,
+    "gi_cubemap_display_size": 0.30000001192092896,
+    "gi_auto_bake": false,
+    "gi_irradiance_pool_size": "16",
+    "taa_samples": 64,
+    "taa_render_samples": 128,
+    "use_taa_reprojection": true,
+    "sss_samples": 7,
+    "sss_jitter_threshold": 0.30000001192092896,
+    "use_ssr": true,
+    "use_ssr_refraction": true,
+    "use_ssr_halfres": true,
+    "ssr_quality": 0.25,
+    "ssr_max_roughness": 0.5,
+    "ssr_thickness": 0.20000000298023224,
+    "ssr_border_fade": 0.07500000298023224,
+    "ssr_firefly_fac": 10.0,
+    "ray_tracing_method": "SCREEN",
+    "use_shadow_jitter_viewport": false,
+    "clamp_surface_direct": 0.0,
+    "clamp_surface_indirect": 10.0,
+    "clamp_volume_direct": 0.0,
+    "clamp_volume_indirect": 9.99999993922529e-09,
+    "volumetric_start": 0.10000000149011612,
+    "volumetric_end": 100.0,
+    "volumetric_tile_size": "8",
+    "volumetric_samples": 64,
+    "volumetric_sample_distribution": 0.800000011920929,
+    "volumetric_ray_depth": 16,
+    "use_volumetric_lights": true,
+    "volumetric_light_clamp": 0.0,
+    "use_volumetric_shadows": false,
+    "volumetric_shadow_samples": 16,
+    "use_volume_custom_range": true,
+    "use_gtao": false,
+    "use_gtao_bent_normals": true,
+    "use_gtao_bounce": true,
+    "gtao_factor": 1.0,
+    "gtao_quality": 0.25,
+    "gtao_distance": 0.20000000298023224,
+    "use_fast_gi": true,
+    "fast_gi_thickness_near": 0.25,
+    "fast_gi_thickness_far": 0.7853981852531433,
+    "fast_gi_quality": 0.0,
+    "fast_gi_step_count": 8,
+    "fast_gi_ray_count": 2,
+    "fast_gi_method": "GLOBAL_ILLUMINATION",
+    "fast_gi_distance": 0.0,
+    "fast_gi_bias": 0.05000000074505806,
+    "fast_gi_resolution": "2",
+    "bokeh_max_size": 100.0,
+    "bokeh_threshold": 1.0,
+    "bokeh_neighbor_max": 10.0,
+    "bokeh_denoise_fac": 0.75,
+    "use_bokeh_high_quality_slight_defocus": false,
+    "use_bokeh_jittered": false,
+    "bokeh_overblur": 5.0,
+    "use_bloom": true,
+    "bloom_threshold": 0.9800000190734863,
+    "bloom_color": [
+      1.0,
+      0.9114075899124146,
+      0.9114075899124146
+    ],
+    "bloom_knee": 0.5,
+    "bloom_radius": 6.5,
+    "bloom_clamp": 0.0,
+    "bloom_intensity": 0.10000000149011612,
+    "motion_blur_depth_scale": 100.0,
+    "motion_blur_max": 32,
+    "motion_blur_steps": 1,
+    "use_shadows": true,
+    "shadow_cube_size": "4096",
+    "shadow_cascade_size": "4096",
+    "shadow_pool_size": "512",
+    "shadow_ray_count": 1,
+    "shadow_step_count": 6,
+    "use_shadow_high_bitdepth": true,
+    "use_shadow_id_high_bitdepth": false,
+    "use_soft_shadows": true,
+    "light_threshold": 0.009999999776482582,
+    "use_overscan": false,
+    "overscan_size": 3.0,
+    "use_raytracing": true,
+    "shadow_resolution_scale": 1.0
+  },
+  "view": {
+    "view_transform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.0,
+    "gamma": 1.0,
+    "use_curve_mapping": true
+  },
+  "curve": {
+    "black_level": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "white_level": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "use_clip": true,
+    "clip_min_x": 0.0,
+    "clip_min_y": 0.0,
+    "clip_max_x": 1.0,
+    "clip_max_y": 1.0,
+    "extend": "EXTRAPOLATED",
+    "curves": [
+      [
+        {
+          "location": [
+            0.0,
+            0.0
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            0.5042552947998047,
+            0.5062500238418579
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            1.0,
+            1.0
+          ],
+          "handle_type": "AUTO"
+        }
+      ],
+      [
+        {
+          "location": [
+            0.0,
+            0.0
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            1.0,
+            1.0
+          ],
+          "handle_type": "AUTO"
+        }
+      ],
+      [
+        {
+          "location": [
+            0.0,
+            0.0
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            1.0,
+            1.0
+          ],
+          "handle_type": "AUTO"
+        }
+      ],
+      [
+        {
+          "location": [
+            0.0,
+            0.0
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            0.2519969344139099,
+            0.22499990463256836
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            0.7474507093429565,
+            0.7750003337860107
+          ],
+          "handle_type": "AUTO"
+        },
+        {
+          "location": [
+            1.0,
+            1.0
+          ],
+          "handle_type": "AUTO"
+        }
+      ]
+    ]
+  },
+  "light": {
+    "rotation": [
+      0.7504915595054626,
+      0.27925264835357666,
+      -31.311206817626953
+    ],
+    "use_extra_user": false,
+    "is_runtime_data": false,
+    "type": "SUN",
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "specular_factor": 1.0,
+    "diffuse_factor": 1.0,
+    "transmission_factor": 1.0,
+    "volume_factor": 1.0,
+    "use_custom_distance": false,
+    "cutoff_distance": 40.0,
+    "use_shadow": true,
+    "use_nodes": false,
+    "light_group_bits": [
+      0,
+      0,
+      0,
+      -2147483648
+    ],
+    "angle": 0.009180432185530663,
+    "energy": 1.0,
+    "shadow_buffer_clip_start": 0.05000000074505806,
+    "shadow_soft_size": 0.0,
+    "use_contact_shadow": false,
+    "contact_shadow_distance": 0.20000000298023224,
+    "contact_shadow_bias": 0.60999995470047,
+    "contact_shadow_thickness": 0.20000000298023224,
+    "shadow_filter_radius": 1.0,
+    "shadow_maximum_resolution": 0.0010000000474974513,
+    "use_shadow_jitter": false,
+    "shadow_jitter_overblur": 10.0,
+    "shadow_cascade_max_distance": 40.0,
+    "shadow_cascade_count": 1,
+    "shadow_cascade_exponent": 0.800000011920929,
+    "shadow_cascade_fade": 0.10000000149011612
+  }
+}

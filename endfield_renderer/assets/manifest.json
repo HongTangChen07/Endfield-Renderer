@@ -1,0 +1,23 @@
+{
+  "source": "User-supplied reference 1.2.1",
+  "distribution": "Noncommercial derivative; original attribution and usage terms supplied separately with publication materials.",
+  "files": {
+    "reference_face_surface.npz": {
+      "bytes": 45084,
+      "sha256": "af936137696b37b55d82764d14ec4b6f7f082e89a5053a41ce2df10c66de52ef"
+    },
+    "reference_modifier_library.blend": {
+      "bytes": 90619,
+      "sha256": "865d81639d6725522b491d0d692b2910e5cad7f805bd4684bce0b0f21d23f29a"
+    },
+    "reference_shader_library.blend": {
+      "bytes": 681984,
+      "sha256": "53928bfb53d64b7e329ee7569df1a2ca3065b13d61500448e334b615b973dbcd"
+    },
+    "reference_style.json": {
+      "bytes": 128566,
+      "sha256": "f047c66c84cd007e56e7865ab8316cd75e6f2a1ed357a676c38fea77f3d74353"
+    }
+  },
+  "scope": "Character shaders and editable modifiers only; no environment models or world"
+}

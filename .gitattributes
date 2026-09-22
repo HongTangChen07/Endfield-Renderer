@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.blend binary
+*.npz binary
+*.zip binary
+
+# 此文件的原始字节参与 manifest.json 哈希校验，禁止自动换行转换。
+endfield_renderer/assets/reference_style.json -text
